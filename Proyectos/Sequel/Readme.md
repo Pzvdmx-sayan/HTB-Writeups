@@ -42,7 +42,7 @@ Pasos realizados dentro de la base de datos:
 
 Se logró extraer la "Flag" del sistema, lo que demuestra que un atacante podría leer, modificar o eliminar cualquier dato almacenado en la infraestructura.
 
-    Flag extraída: 7b4bec00d1a39e3dd4e021ec3d915da8
+    Flag extraída:
 
 6. Recomendaciones (Remediación)
 
